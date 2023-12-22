@@ -1,4 +1,3 @@
-# Olist_Data_Analysis
 # Olist Data Analysis Project
 
 This project aims to analyze the e-commerce market in Brazil using the Olist dataset. The goal is to uncover valuable insights and trends within the data to support strategic decision-making.
